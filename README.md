@@ -1,6 +1,6 @@
 # Sumon Ahemed - BSc in Internet of Things & Robotics Engineering
 
-Hello! I’m Sumon Ahmed, a graduate of Bangladesh Digital University with a focus on **IoT**, **Robotics**, **Data Science**, and **Emerging Technologies**.
+Hello! I’m Sumon Ahemed, a graduate of Bangladesh Digital University with a focus on **IoT**, **Robotics**, **Data Science**, and **Emerging Technologies**.
 
 ---
 
@@ -11,6 +11,8 @@ Hello! I’m Sumon Ahmed, a graduate of Bangladesh Digital University with a foc
 - **Cloud Computing**
 - **Machine Learning**
 - **Network & System Security**
+- **Cyber security**
+- **Mobile Computing**
 
 ---
 
